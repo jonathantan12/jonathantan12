@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I'm Jonathan. I am passionate about creating solutions that revolve around web applications and data analytics. 
 
 <!--
 **jonathantan12/jonathantan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

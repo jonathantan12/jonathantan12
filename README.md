@@ -1,12 +1,16 @@
 ### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications and data analytics. Feel free to connect with me! 😄
 
+🔭 I’m currently working on building a [QR Ordering System](https://www.google.com "Google's Homepage")
+, a housing analytics platform, and offering digital business profile solution.  
+👯 I’m looking to collaborate on opportunities for business development for innovative solutions. 
+📫 How to reach me: jonathantan12@hotmail.com
+
 <!--
 **jonathantan12/jonathantan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
-
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

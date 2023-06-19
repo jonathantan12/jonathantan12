@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications and data analytics. 
+### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications and data analytics. Feel free to connect with me! 😄
 
 <!--
 **jonathantan12/jonathantan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

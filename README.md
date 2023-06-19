@@ -2,7 +2,7 @@
 
 <br> 
 🔭 I’m currently working on building a QR Ordering System, a housing analytics platform, and offering digital business profile solution. <br><br>
-👯 I’m looking to collaborate on opportunities for business development for innovative solutions. <br><br>
+👯 I'm actively seeking collaborative business development opportunities focused on innovative solutions. <br><br>
 📫 How to reach me: jonathantan12@hotmail.com
 
 <!--

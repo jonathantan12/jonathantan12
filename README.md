@@ -2,8 +2,8 @@
 
 <br> 
 🔭 I’m currently working on building a [QR Ordering System](https://foodordering-jonathantan12.vercel.app)
-, a housing analytics platform, and offering digital business profile solution. <br>
-👯 I’m looking to collaborate on opportunities for business development for innovative solutions. <br>
+, a housing analytics platform, and offering digital business profile solution. <br><br>
+👯 I’m looking to collaborate on opportunities for business development for innovative solutions. <br><br>
 📫 How to reach me: jonathantan12@hotmail.com
 
 <!--

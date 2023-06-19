@@ -1,6 +1,7 @@
 ### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications and data analytics. Feel free to connect with me! 😄
 
-🔭 I’m currently working on building a [QR Ordering System](https://www.google.com "Google's Homepage")
+<br> 
+🔭 I’m currently working on building a [QR Ordering System](https://foodordering-jonathantan12.vercel.app)
 , a housing analytics platform, and offering digital business profile solution. <br>
 👯 I’m looking to collaborate on opportunities for business development for innovative solutions. <br>
 📫 How to reach me: jonathantan12@hotmail.com

@@ -1,8 +1,7 @@
 ### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications and data analytics. Feel free to connect with me! 😄
 
 <br> 
-🔭 I’m currently working on building a QR Ordering System, a housing analytics platform [Learn More](https://www.eightchapter.com/){:target="_blank"}
-, and offering digital business profile solution [Learn More](https://thenetworktap.com/){:target="_blank"}. <br><br>
+🔭 I’m currently working on building a QR Ordering System, a housing analytics platform [Learn More](https://www.eightchapter.com/){:target="_blank"}, and offering a digital business profile solution [Learn More](https://thenetworktap.com/){:target="_blank"}.
 👯 I'm actively seeking collaborative business development opportunities focused on innovative solutions. <br><br>
 📫 How to reach me: jonathantan12@hotmail.com
 

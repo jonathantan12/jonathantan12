@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications and data analytics. Feel free to connect with me! 😄
 
 <br> 
-🔭 I’m currently working on building a QR Ordering System (<a href="https://foodordering-jonathantan12.vercel.app/">User-Facing</a>, <a href="https://foodordering-jonathantan12.vercel.app/">Business-Facing</a>), a housing analytics platform <a href="https://www.eightchapter.com/">(Learn More)</a>, and offering digital business profile solution <a href="https://thenetworktap.com/">(Learn More)</a>. <br><br>
+🔭 I’m currently working on building a QR Ordering System (<a href="https://foodordering-jonathantan12.vercel.app/">User-Facing</a>, <a href="https://fooddashboard-jonathantan12.vercel.app/">Business-Facing</a>), a housing analytics platform <a href="https://www.eightchapter.com/">(Learn More)</a>, and offering digital business profile solution <a href="https://thenetworktap.com/">(Learn More)</a>. <br><br>
 👯 I'm actively seeking collaborative business development opportunities focused on innovative solutions. <br><br>
 📫 How to reach me: jonathantan12@hotmail.com
 

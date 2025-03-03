@@ -1,12 +1,13 @@
 ### Hi there! 👋 I'm Jonathan and I have a passion for crafting solutions that revolve around web applications, artificial intelligence and data analytics. Feel free to connect with me! 😄
 
-<br>
+<br> 
 🔭 I’m currently working on:
-- **Superminds.app**: A personalised smart online learning platform that leverages cutting-edge technology to tailor educational experiences to individual learning styles, paces, and goals. [Learn More](https://superminds.app)&#8203;:contentReference[oaicite:0]{index=0}
-- **QR Ordering System**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-- **Housing Analytics Platform**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **Digital Business Profile Solution**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-<br><br>
+- **[Superminds.app](https://superminds.app)** – A personalised smart online learning platform designed to enhance education through AI-driven insights and tailored learning experiences.
+- **[QR Ordering System](https://foodordering-jonathantan12.vercel.app/)** ([Business-Facing](https://fooddashboard-jonathantan12.vercel.app/)) – A seamless QR code-based ordering system for users and businesses.
+- **[Eight Chapter](https://www.eightchapter.xyz/)** – A housing analytics platform providing data-driven insights into the property market.
+- **[The Network Tap](https://thenetworktap.com/)** – A digital business profile solution helping businesses enhance their online presence.
+
+<br>
 
 👯 I'm actively seeking collaborative business development opportunities focused on innovative solutions. <br><br>
 📫 How to reach me: jonathantan12@hotmail.com
